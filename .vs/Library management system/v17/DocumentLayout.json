@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ebrya\\source\\repos\\Library management system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C25FF349-242E-43AF-92ED-F2A68C581260}|Library management system\\Library management system.csproj|c:\\users\\ebrya\\source\\repos\\library management system\\library management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25FF349-242E-43AF-92ED-F2A68C581260}|Library management system\\Library management system.csproj|solutionrelative:library management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25FF349-242E-43AF-92ED-F2A68C581260}|Library management system\\Library management system.csproj|c:\\users\\ebrya\\source\\repos\\library management system\\library management system\\libraryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25FF349-242E-43AF-92ED-F2A68C581260}|Library management system\\Library management system.csproj|solutionrelative:library management system\\libraryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25FF349-242E-43AF-92ED-F2A68C581260}|Library management system\\Library management system.csproj|c:\\users\\ebrya\\source\\repos\\library management system\\library management system\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25FF349-242E-43AF-92ED-F2A68C581260}|Library management system\\Library management system.csproj|solutionrelative:library management system\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25FF349-242E-43AF-92ED-F2A68C581260}|Library management system\\Library management system.csproj|c:\\users\\ebrya\\source\\repos\\library management system\\library management system\\librarien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25FF349-242E-43AF-92ED-F2A68C581260}|Library management system\\Library management system.csproj|solutionrelative:library management system\\librarien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25FF349-242E-43AF-92ED-F2A68C581260}|Library management system\\Library management system.csproj|c:\\users\\ebrya\\source\\repos\\library management system\\library management system\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25FF349-242E-43AF-92ED-F2A68C581260}|Library management system\\Library management system.csproj|solutionrelative:library management system\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25FF349-242E-43AF-92ED-F2A68C581260}|Library management system\\Library management system.csproj|c:\\users\\ebrya\\source\\repos\\library management system\\library management system\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25FF349-242E-43AF-92ED-F2A68C581260}|Library management system\\Library management system.csproj|solutionrelative:library management system\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25FF349-242E-43AF-92ED-F2A68C581260}|Library management system\\Library management system.csproj|c:\\users\\ebrya\\source\\repos\\library management system\\library management system\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25FF349-242E-43AF-92ED-F2A68C581260}|Library management system\\Library management system.csproj|solutionrelative:library management system\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryCard.cs",
+              "DocumentMoniker": "C:\\Users\\ebrya\\source\\repos\\Library management system\\Library management system\\LibraryCard.cs",
+              "RelativeDocumentMoniker": "Library management system\\LibraryCard.cs",
+              "ToolTip": "C:\\Users\\ebrya\\source\\repos\\Library management system\\Library management system\\LibraryCard.cs",
+              "RelativeToolTip": "Library management system\\LibraryCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:38:09.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Librarien.cs",
+              "DocumentMoniker": "C:\\Users\\ebrya\\source\\repos\\Library management system\\Library management system\\Librarien.cs",
+              "RelativeDocumentMoniker": "Library management system\\Librarien.cs",
+              "ToolTip": "C:\\Users\\ebrya\\source\\repos\\Library management system\\Library management system\\Librarien.cs",
+              "RelativeToolTip": "Library management system\\Librarien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:37:52.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\ebrya\\source\\repos\\Library management system\\Library management system\\Library.cs",
+              "RelativeDocumentMoniker": "Library management system\\Library.cs",
+              "ToolTip": "C:\\Users\\ebrya\\source\\repos\\Library management system\\Library management system\\Library.cs",
+              "RelativeToolTip": "Library management system\\Library.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:35:43.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ebrya\\source\\repos\\Library management system\\Library management system\\Program.cs",
+              "RelativeDocumentMoniker": "Library management system\\Program.cs",
+              "ToolTip": "C:\\Users\\ebrya\\source\\repos\\Library management system\\Library management system\\Program.cs",
+              "RelativeToolTip": "Library management system\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:34:30.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryUser.cs",
+              "DocumentMoniker": "C:\\Users\\ebrya\\source\\repos\\Library management system\\Library management system\\LibraryUser.cs",
+              "RelativeDocumentMoniker": "Library management system\\LibraryUser.cs",
+              "ToolTip": "C:\\Users\\ebrya\\source\\repos\\Library management system\\Library management system\\LibraryUser.cs",
+              "RelativeToolTip": "Library management system\\LibraryUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:37:32.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ebrya\\source\\repos\\Library management system\\Library management system\\User.cs",
+              "RelativeDocumentMoniker": "Library management system\\User.cs",
+              "ToolTip": "C:\\Users\\ebrya\\source\\repos\\Library management system\\Library management system\\User.cs",
+              "RelativeToolTip": "Library management system\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:37:14.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ebrya\\source\\repos\\Library management system\\Library management system\\Book.cs",
+              "RelativeDocumentMoniker": "Library management system\\Book.cs",
+              "ToolTip": "C:\\Users\\ebrya\\source\\repos\\Library management system\\Library management system\\Book.cs",
+              "RelativeToolTip": "Library management system\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:37:06.746Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
