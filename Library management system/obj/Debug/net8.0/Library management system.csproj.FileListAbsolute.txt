@@ -12,3 +12,4 @@ C:\Users\ebrya\source\repos\Library management system\Library management system\
 C:\Users\ebrya\source\repos\Library management system\Library management system\obj\Debug\net8.0\Library management system.pdb
 C:\Users\ebrya\source\repos\Library management system\Library management system\obj\Debug\net8.0\Library management system.genruntimeconfig.cache
 C:\Users\ebrya\source\repos\Library management system\Library management system\obj\Debug\net8.0\ref\Library management system.dll
+C:\Users\ebrya\source\repos\Library management system\Library management system\obj\Debug\net8.0\Library management system.sourcelink.json

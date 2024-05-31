@@ -17,10 +17,15 @@ namespace Library_management_system
 
         public void Display()
         {
-            foreach (var book in books)
-            {
-                Console.WriteLine(book);
+            //foreach (var book in books)
+            //{
+            //    Console.WriteLine(book.Title);
 
+            //}
+
+            for (int i = 0; i < currentBooks; i++) 
+            {
+                Console.WriteLine(books[i].Title);
             }
         }
         public void Add(Book book)
@@ -44,6 +49,21 @@ namespace Library_management_system
             books[index] = null; 
             currentBooks--;
             Console.WriteLine("book deleted successfly");
+
+        }
+
+        public void BorrowBook(Book book)
+        {
+            if (currentborrowedBooks < books.Length)
+            {
+                books[currentborrowedBooks] = book;
+                currentborrowedBooks++;
+                Console.WriteLine("book borrowed successfly ");
+            }
+            else
+            {
+                Console.WriteLine("No book available ");
+            }
 
         }
     }

@@ -16,9 +16,9 @@ namespace Library_management_system
         }
 
 
-        public void BorrowBooks(Book book)
+        public void BorrowBooks(Book book, Library library)
         {
-            // logic spater
+            library.BorrowBook(book);
         }
 
 

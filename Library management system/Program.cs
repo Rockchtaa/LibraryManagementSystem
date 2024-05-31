@@ -19,12 +19,12 @@ if (UserType == 'L')
 
     Console.WriteLine($"Welcome to the library {librarien.Name}");
 
-
-    Console.WriteLine("please choose (A) to Add books, (R) to remove books and (D) to Display books ");
-
-    char choice = Console.ReadLine().ToUpper()[0];
     while (true)
     {
+        Console.WriteLine("please choose (A) to Add books, (R) to remove books and (D) to Display books ");
+
+        char choice = Console.ReadLine().ToUpper()[0];
+  
         switch (choice)
         {
             case 'A':
@@ -95,9 +95,55 @@ if (UserType == 'L')
 
             string LibraryUserName = Console.ReadLine();
 
-            LibraryUser librarienUser = new LibraryUser(LibraryUserName);
+            LibraryUser librarienBorrow = new LibraryUser(LibraryUserName);
 
-            Console.WriteLine($"Welcome to the library {librarienUser.Name}");
+            Console.WriteLine($"Welcome to the library {librarienBorrow.Name}");
+
+
+            Console.WriteLine("please choose (D) to Display books, (B) to borrow books ");
+
+            char choice = Console.ReadLine().ToUpper()[0];
+            while (true)
+            {
+                switch (choice)
+                {
+                    case 'D':
+                        Console.WriteLine("the book list :");
+                         librarienBorrow.DisplayBooks(library);
+                        break;
+
+
+                case 'B':
+                    Console.WriteLine("enter the book to borrow");
+
+                    Console.WriteLine(" bookName :");
+
+                    string bookName = Console.ReadLine();
+                    Console.WriteLine(" bookAuthor :");
+
+                    string bookAuthor = Console.ReadLine();
+                    Console.WriteLine(" bookYear :");
+
+                    int bookYear = Convert.ToInt32(Console.ReadLine());
+
+                    Book book = new Book()
+                    {
+                        Title = bookName,
+                        Author = bookAuthor,
+                        Year = bookYear,
+
+                    };
+
+                      librarienBorrow.BorrowBooks(book, library);
+                    break;
+
+
+
+            default:
+                        Environment.Exit(0);
+                        break;
+                }
+            }
 }
         else
         { Console.WriteLine("please enter correct Values R or L"); };
