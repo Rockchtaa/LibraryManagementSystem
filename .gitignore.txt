@@ -40,3 +40,6 @@ bld/
 # Local History for Visual Studio
 .vs/
 .vs/
+
+# Ignore Visual Studio files
+.vs/
